@@ -36,3 +36,20 @@ Highlights interactive features that drive user action.
 ---
 
 ✅ These elements together ensure the design communicates structure, usability, and user flow before colors and visual styles are added.
+
+
+## Types of Wireframes
+
+Wireframes can be created at different levels of detail depending on the stage of the design process. The two main types are:
+
+| **Type**            | **Description**                                                                 | **When to Use**                                                                 |
+|----------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| **Low-Fidelity**     | Simple, rough sketches focusing on layout and structure. They avoid detail, color, and styling. | Early in the design process to brainstorm, communicate basic ideas, and get quick feedback. |
+| **High-Fidelity**    | Detailed wireframes with real content, accurate spacing, and visual elements close to the final design. | Later in the design process to validate user flows, usability, and near-final look before development. |
+
+---
+
+### Example from the Case Study
+
+The wireframe shown in the link (“Project Airbnb”) is a **High-Fidelity Wireframe**.  
+It is detailed, visually refined, and shows the interface where users can **book Airbnbs**, including layout, images, and interactive components. This level of detail helps stakeholders visualize the end product more accurately.
