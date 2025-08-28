@@ -53,3 +53,24 @@ Wireframes can be created at different levels of detail depending on the stage o
 
 The wireframe shown in the link (“Project Airbnb”) is a **High-Fidelity Wireframe**.  
 It is detailed, visually refined, and shows the interface where users can **book Airbnbs**, including layout, images, and interactive components. This level of detail helps stakeholders visualize the end product more accurately.
+
+
+## Wireframing Tools
+
+There are several tools available for creating wireframes, each with unique features that support different stages of the design process:
+
+- **Balsamiq** – Great for low-fidelity wireframes; simple, sketch-like style that communicates ideas quickly.  
+- **Sketch** – Widely used for UI design, with plugins that support wireframing and prototyping.  
+- **Adobe XD** – Provides both wireframing and prototyping features, with smooth integration into the Adobe ecosystem.  
+- **Figma** – A web-based collaborative design tool that is highly recommended for wireframing and prototyping.
+
+### Why Figma?
+
+Figma stands out as a preferred tool because:
+- It is **collaborative**, allowing multiple team members to work in real-time.  
+- It is **cloud-based**, so projects can be accessed from anywhere.  
+- It supports both **low-fidelity and high-fidelity wireframes**.  
+- It offers a wide range of **UI kits and templates**, speeding up the design process.  
+- Easy sharing options make it simple to get **stakeholder feedback**.  
+
+In summary, Figma is powerful, accessible, and effective for both individual designers and teams.
