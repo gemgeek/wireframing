@@ -97,3 +97,28 @@ Wireframing plays a vital role in the software development lifecycle by providin
 
 📌 **Example:**  
 In a booking management system, a wireframe of the checkout page could show the flow of selecting dates, entering guest details, and confirming payment. This allows designers and developers to align on the process before coding begins.
+
+
+## Wireframing in Practice
+
+Wireframing isn’t just a design exercise, it’s a critical tool that helps teams catch problems before they reach the coding phase.  
+
+**Real-World Example:**
+During the development of a hotel booking platform, the design team created wireframes for the checkout process. In the initial design, users had to scroll through multiple sections on one page to review booking details, enter payment info, and confirm reservations.  
+
+Through wireframe testing, it became clear that this layout was confusing and caused users to miss important fields.  
+
+**How it was resolved:**
+- The team split the process into a step-by-step flow:  
+  1. Select room and dates  
+  2. Enter guest details  
+  3. Confirm and pay  
+- Navigation buttons (“Next” and “Back”) were added for clarity.  
+
+**Impact on the final product:**
+- The new flow reduced drop-offs during checkout.  
+- Customers had a smoother, more intuitive experience.  
+- Developers avoided costly redesigns since the issue was caught early in the wireframe stage.  
+
+**Summary:**
+Wireframing ensures that usability issues are identified before coding begins, saving time and money while improving the user experience. By testing ideas visually, teams can deliver more user-friendly and efficient products.
